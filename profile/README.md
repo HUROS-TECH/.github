@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to the official repository
+> You can copy the code with a license of course
 <!--
 
 **Here are some ideas to get you started:**
